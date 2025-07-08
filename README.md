@@ -154,3 +154,7 @@ Head over to the [Uninstall](docs/Uninstall.md) guide for uninstallation instruc
 ## Terms of Service and Privacy Notice
 
 For details on the terms of service and privacy notice applicable to your use of Gemini CLI, see the [Terms of Service and Privacy Notice](./docs/tos-privacy.md).
+
+
+
+拉起到本地优化~
